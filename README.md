@@ -2,6 +2,8 @@
 
 Welcome to the **AR Indoor Navigation App**, an augmented reality (AR) solution designed to simplify indoor navigation in complex buildings, such as college campuses. By leveraging QR codes for precise positioning, Unity’s NavMesh for pathfinding, and ARFoundation for real-time AR path overlays, this app guides users seamlessly across single or multiple floors with visual and audio cues.
 
+This project is done with collabration with [B SAI PRANEETH REDDY]  @https://github.com/Sai-Pranith-Reddy
+
 This repository contains the source code and setup instructions for developers to build, test, and extend the app.
 
 ---
